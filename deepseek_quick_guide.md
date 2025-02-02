@@ -53,6 +53,15 @@ After installation:
 3. Start using DeepSeek through the web interface
 
 
+## Optional commands
+
+```bash
+# Copy and paste this entire block into your terminal
+sudo apt update && sudo apt upgrade -y 
+apt-get install sudo -y
+sudo apt install curl -y
+sudo apt install net-tools -y
+```
 
 
 ## Installation Command
